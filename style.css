@@ -1,0 +1,73 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(95, 91, 91);
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.add-text-color{
+    color:#ec5530c4 ;
+}
+
+.link-btn{
+    text-decoration: none;
+    padding: 10px 30px ;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, #e1b12c,#e84118);
+    font-weight: 700;
+    color: whitesmoke;
+}
+.flexible{
+    display:flex;
+    margin-left: 5% ;
+    margin-bottom: 100px;
+}
+.text-box{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 40%;
+    
+}
+.image-box{
+    padding-top: 5%;
+    padding-left: 10%;
+    width: 40%;
+}
+
+.image{
+    width: 60%;
+    padding:10% 10% 0% 0%;
+
+}
+.image-logo{
+    width: 80%;
+    padding:10% 10% 0% 10%;
+}
+.background-add{
+    margin-left: 0px;
+    margin-bottom: 100px;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.alignment{
+    text-align: center;
+}
+.box-create{
+    margin: 5%;
+    padding: 5px;
+    padding-top: 15px;
+    width: 22%;
+    border: 1px solid rgb(255, 254, 252);
+    text-align: center;
+    box-shadow: 10px 10px 30px 0px rgba(121, 110, 110, 0.274);
+    border-radius: 10px;
+    
+    
+}
+.food-image{
+    width: 90%;
+}
+
