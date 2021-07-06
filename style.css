@@ -21,7 +21,7 @@ h1{
 }
 .flexible{
     display:flex;
-    margin-left: 5% ;
+    /* margin-left: 5% ; */
     margin-bottom: 100px;
 }
 .text-box{
@@ -59,15 +59,39 @@ h1{
     margin: 5%;
     padding: 5px;
     padding-top: 15px;
-    width: 22%;
+    width: 25%;
     border: 1px solid rgb(255, 254, 252);
     text-align: center;
     box-shadow: 10px 10px 30px 0px rgba(121, 110, 110, 0.274);
-    border-radius: 10px;
+    border-radius: 20px;
     
     
 }
 .food-image{
     width: 90%;
+}
+.social-media-box{
+    width: 30%;
+    margin: 0% 5% 0% 5%;
+    padding: 5px;
+
+}
+.black-heading{
+    font-size: 40px;
+    color: black;
+    margin: 0px;
+    font-family: 'Barlow', sans-serif;
+}
+h3{
+    color: black;
+}
+
+#bordering{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    box-shadow: 10px 10px 30px 0px rgba(121, 110, 110, 0.274);
+    border-radius: 20px;
+
 }
 
