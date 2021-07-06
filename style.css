@@ -8,7 +8,7 @@ h1{
     font-weight: 900;
 }
 .add-text-color{
-    color:#ec5530c4 ;
+    color:rgb(233, 103, 16) ;
 }
 
 .link-btn{
@@ -34,11 +34,17 @@ h1{
     padding-top: 5%;
     padding-left: 10%;
     width: 40%;
+    
+    
+
 }
 
 .image{
     width: 60%;
     padding:10% 10% 0% 0%;
+    border: none;
+    display: block;
+    
 
 }
 .image-logo{
@@ -104,6 +110,6 @@ footer{
 }
 footer p{
     font-size: small;
-    color: rgba(117, 117, 190, 0.746);
+    color: rgba(229, 229, 243, 0.746);
 }
 
