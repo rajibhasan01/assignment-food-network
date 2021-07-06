@@ -95,3 +95,15 @@ h3{
 
 }
 
+footer{
+    background-color: black;
+    color: rgb(105, 96, 96);
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 8%;
+}
+footer p{
+    font-size: small;
+    color: rgba(117, 117, 190, 0.746);
+}
+
